@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://github.com/murcodaorg/.github/raw/main/.github/data/logo.png" alt="Логотип ООО «MurCoda»" width="200" />
+    <img src="https://raw.githubusercontent.com/MurCodaOrg/murcodaorg.github.io/refs/heads/main/cdn/images/normal.svg" alt="Логотип ООО «MurCoda»" width="200" />
   </p>
   <div>
     <h1>ООО «MurCoda»</h1>
@@ -9,7 +9,7 @@
     <p>
       <b>
         Компания от
-        <a href="https://github.com/murkosik">Murkosik</a>
+        <a href="https://github.com/felineapi">FelineAPI</a>
       </b>
     </p>
   </div>
@@ -163,7 +163,23 @@
             </b>
           </a>
         </p>
-    </div>
+      </div>
+      <img
+          alt="felineapi"
+          src="https://avatars.githubusercontent.com/u/281215741?v=4"
+          width="100"
+          height="100"
+          style="border-radius: 10px; object-fit: cover; border: 2px solid #007acc; display: block;"
+        />
+      <div>
+        <p style="margin: 0;">
+          <a href="https://github.com/felineapi">
+            <b style="color: green;">
+              FelineAPI
+            </b>
+          </a>
+        </p>
+      </div>
   </div>
   <div>
     <p>
