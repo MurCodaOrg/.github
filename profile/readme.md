@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://raw.githubusercontent.com/MurCodaOrg/murcodaorg.github.io/refs/heads/main/cdn/images/normal.svg" alt="Логотип ООО «MurCoda»" width="200" />
+    <img src="https://raw.githubusercontent.com/MurCodaWeb/murcodaweb.github.io/refs/heads/main/assets/proflogo.png" alt="Логотип ООО «MurCoda»" width="200" />
   </p>
   <div>
     <h1>ООО «MurCoda»</h1>
